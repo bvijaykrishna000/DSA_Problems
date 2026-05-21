@@ -19,7 +19,6 @@ class Solution {
                 head = head.next;
             }
         }
-        // return head;
         if(head == null || head.next == null){
             return head;
         }
