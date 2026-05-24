@@ -9,12 +9,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0143-reorder-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0143-reorder-list) |
 ## Array
 |  |
 | ------- |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
