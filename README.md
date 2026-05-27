@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Simulation
 |  |
 | ------- |
