@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0682-baseball-game](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0682-baseball-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Stack
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Simulation
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/1025-divisor-game) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
