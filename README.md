@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0143-reorder-list) |
+| [0844-backspace-string-compare](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0844-backspace-string-compare) |
 ## Array
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0844-backspace-string-compare) |
 ## Recursion
 |  |
 | ------- |
@@ -49,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0844-backspace-string-compare) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
