@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0739-daily-temperatures) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Stack
 |  |
 | ------- |
@@ -96,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0739-daily-temperatures) |
+## Greedy
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Sorting
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
