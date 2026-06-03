@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0739-daily-temperatures) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0394-decode-string) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0844-backspace-string-compare) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
