@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0901-online-stock-span) |
 ## Recursion
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0901-online-stock-span) |
 ## Greedy
 |  |
 | ------- |
@@ -117,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
