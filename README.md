@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0227-basic-calculator-ii) |
+| [0263-ugly-number](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0263-ugly-number) |
 | [1025-divisor-game](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/1025-divisor-game) |
 ## String
 |  |
