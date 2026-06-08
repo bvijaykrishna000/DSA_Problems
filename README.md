@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0143-reorder-list) |
 | [0844-backspace-string-compare](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0844-backspace-string-compare) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0844-backspace-string-compare) |
