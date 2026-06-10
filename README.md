@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0219-contains-duplicate-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0697-degree-of-an-array](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0697-degree-of-an-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0219-contains-duplicate-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0503-next-greater-element-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0697-degree-of-an-array) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/2574-left-and-right-sum-differences) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
