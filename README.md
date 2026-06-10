@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0697-degree-of-an-array](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0697-degree-of-an-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0503-next-greater-element-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0503-next-greater-element-ii) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0394-decode-string) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0049-group-anagrams) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Data Stream
 |  |
