@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0901-online-stock-span) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0844-backspace-string-compare](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0844-backspace-string-compare) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Simulation
