@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0697-degree-of-an-array](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0697-degree-of-an-array) |
+| [0819-most-common-word](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0819-most-common-word) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Linked List
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0697-degree-of-an-array) |
 | [0735-asteroid-collision](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0739-daily-temperatures) |
+| [0819-most-common-word](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0819-most-common-word) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/2574-left-and-right-sum-differences) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0819-most-common-word](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0844-backspace-string-compare) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -164,4 +167,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0819-most-common-word](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0819-most-common-word) |
 <!---LeetCode Topics End-->
