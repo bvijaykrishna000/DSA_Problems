@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0819-most-common-word) |
+| [1672-richest-customer-wealth](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/2574-left-and-right-sum-differences) |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0819-most-common-word](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0819-most-common-word) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
