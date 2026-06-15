@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0263-ugly-number) |
@@ -177,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/1672-richest-customer-wealth) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
