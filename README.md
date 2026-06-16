@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0263-ugly-number) |
 | [1025-divisor-game](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/1137-n-th-tribonacci-number) |
 ## String
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/1137-n-th-tribonacci-number) |
 ## Brainteaser
 |  |
 | ------- |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
