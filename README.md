@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0338-counting-bits) |
 | [1025-divisor-game](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/1137-n-th-tribonacci-number) |
 ## Brainteaser
@@ -196,4 +197,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
