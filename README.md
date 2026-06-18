@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0054-spiral-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0219-contains-duplicate-ii) |
+| [0406-queue-reconstruction-by-height](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0503-next-greater-element-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0682-baseball-game) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0049-group-anagrams) |
+| [0406-queue-reconstruction-by-height](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0451-sort-characters-by-frequency](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Data Stream
@@ -201,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0338-counting-bits) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
