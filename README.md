@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0143-reorder-list) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0406-queue-reconstruction-by-height](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0406-queue-reconstruction-by-height) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0075-sort-colors) |
 | [0406-queue-reconstruction-by-height](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0451-sort-characters-by-frequency](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
