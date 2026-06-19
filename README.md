@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0171-excel-sheet-column-number) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0338-counting-bits) |
 ## Binary Indexed Tree
