@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0171-excel-sheet-column-number) |
 | [0227-basic-calculator-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0263-ugly-number) |
 | [1025-divisor-game](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/1025-divisor-game) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0171-excel-sheet-column-number) |
 | [0227-basic-calculator-ii](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/bvijaykrishna000/DSA_Problems/tree/master/0451-sort-characters-by-frequency) |
